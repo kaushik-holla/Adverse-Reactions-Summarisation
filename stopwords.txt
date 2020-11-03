@@ -716,3 +716,17 @@ greater
 leading
 time
 event
+controlled
+clinical
+trial
+experience
+relationship
+size
+causal
+population
+duration
+hour
+adolescent
+adult
+serious
+addition
