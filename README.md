@@ -1,4 +1,4 @@
-# Adverse-Reactions-Summarisation
+# Drug-Adverse-Reactions-Summarization
 Summarizing the adverse reactions of a drug
 
 Input: 
