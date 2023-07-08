@@ -1,15 +1,5 @@
 # Drug-Adverse-Reactions-Summarization
-Summarizing the adverse reactions of a drug
+Task: Summarizing the adverse reactions of a drug
 
-Input: 
-
-	"assignment_data.csv"
-	
-		Contains SetID and Adverse Reactions.
-
-Output:
-
-	"output.csv"
-	
-		Contains Summary extracted from Adverse Reactions along with SetID and Adverse Reactions.
+In this notebook, we are taking in the input csv (which contains SetID(Id of the drug) and a detailed description of the effect caused by the drug including Adverse reactions) and performing extractive summarization to extract and summarize all the adverse reactions caused by the given drug. 
 	
